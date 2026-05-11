@@ -5,7 +5,7 @@ export function Footer() {
       <div className="container py-10 text-sm text-stone-600">
         <div className="grid gap-6 md:grid-cols-3">
           <div>
-            <div className="text-base font-bold text-stone-900">🍊 과일 가게</div>
+            <div className="text-base font-bold text-stone-900">🍊 푸르고</div>
             <p className="mt-2 text-stone-600">제철 과일을 신선하게 배송해 드립니다.</p>
           </div>
           <div className="space-y-1">
@@ -21,7 +21,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-stone-200 pt-4 text-center text-xs text-stone-500">
-          © {year} 과일 가게. All rights reserved.
+          © {year} 푸르고. All rights reserved.
         </div>
       </div>
     </footer>
