@@ -10,14 +10,13 @@ export function Footer() {
           </div>
           <div className="space-y-1">
             <div className="font-medium text-stone-800">사업자 정보</div>
-            <p>상호: (사업자명 입력)</p>
-            <p>대표: (대표자명 입력)</p>
-            <p>사업자등록번호: 000-00-00000</p>
-            <p>주소: (사업장 주소 입력)</p>
+            <p>상호: 푸르고</p>
+            <p>대표: 이석준</p>
+            <p>사업자등록번호: 376-99-01711</p>
+            <p>주소: 경기도 성남시 분당구 황새울로351번길 10, 401호</p>
           </div>
           <div className="space-y-1">
             <div className="font-medium text-stone-800">고객 문의</div>
-            <p>전화: (대표 연락처 입력)</p>
             <p>운영 시간: 평일 09:00 - 18:00</p>
           </div>
         </div>
