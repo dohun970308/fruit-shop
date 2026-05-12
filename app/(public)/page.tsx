@@ -31,12 +31,12 @@ export default async function HomePage() {
         <div className="container py-16 md:py-24">
           <div className="mx-auto max-w-2xl text-center">
             <h1 className="text-4xl font-bold tracking-tight text-stone-900 md:text-5xl">
-              <span className="text-orange-600">푸르고</span>,
+              <span className="text-orange-600">프루고</span>,
               <br className="md:hidden" />
               {' '}가장 신선한 제철 과일.
             </h1>
             <p className="mt-5 text-base text-stone-600 md:text-lg">
-              푸르고가 농장에서 바로 보내드리는 제철 과일을 만나보세요.
+              프루고가 농장에서 바로 보내드리는 제철 과일을 만나보세요.
             </p>
             <div className="mt-8 flex items-center justify-center gap-3">
               <Button size="lg" asChild>

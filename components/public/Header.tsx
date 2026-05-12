@@ -38,7 +38,7 @@ export function Header() {
           <span className="text-2xl" aria-hidden>
             🍊
           </span>
-          <span>푸르고</span>
+          <span>프루고</span>
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
